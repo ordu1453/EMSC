@@ -1,0 +1,3 @@
+../Core/Src/func.c:11:6:func1	8	static
+../Core/Src/func.c:27:6:func2	8	static
+../Core/Src/func.c:50:6:func3	8	static

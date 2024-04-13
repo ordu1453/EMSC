@@ -1,0 +1,10 @@
+../Core/Src/keyboard_lib.c:66:6:seg_out	2
+../Core/Src/keyboard_lib.c:73:6:reset_key_pins	2
+../Core/Src/keyboard_lib.c:79:5:read_key	8
+../Core/Src/keyboard_lib.c:113:6:seg_off	2
+../Core/Src/keyboard_lib.c:119:6:out_num_low	1
+../Core/Src/keyboard_lib.c:123:6:off_low_seg	1
+../Core/Src/keyboard_lib.c:127:6:out_num_high	1
+../Core/Src/keyboard_lib.c:131:6:off_high_seg	1
+../Core/Src/keyboard_lib.c:135:6:out_num_both	1
+../Core/Src/keyboard_lib.c:140:6:off_seg	1
