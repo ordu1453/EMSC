@@ -1,0 +1,10 @@
+../Core/Src/LCD_lib.c:64:13:LCD_SendBytes	24	static
+../Core/Src/LCD_lib.c:79:13:LCD_DisplaySet	32	static
+../Core/Src/LCD_lib.c:110:13:LCD_DisplayClear	16	static
+../Core/Src/LCD_lib.c:127:16:LCD_WriteStringAtPos	32	static
+../Core/Src/LCD_lib.c:159:16:LCD_SetPos	32	static
+../Core/Src/LCD_lib.c:188:13:LCD_BuildUserDefChar	32	static
+../Core/Src/LCD_lib.c:224:16:LCD_DefineUserChar	168	static
+../Core/Src/LCD_lib.c:268:16:LCD_DispUserChar	24	static
+../Core/Src/LCD_lib.c:286:13:LCD_disp_int	56	dynamic
+../Core/Src/LCD_lib.c:304:13:LCD_disp_double	40	static
