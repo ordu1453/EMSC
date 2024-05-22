@@ -1,0 +1,87 @@
+2024-05-05 00:10:30,578 [WARN] IP:2120 - MessageRAMOffset not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - RxFifo0ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - RxFifo0ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - RxFifo1ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - RxFifo1ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - RxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - RxBufferSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - TxEventsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - TxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - TxFifoQueueElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - TxElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - ClockCalibrationCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - ClockDividerCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - MinOscClkPeriodsCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - TimeQuantaPerBitTimeCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,593 [WARN] IP:2120 - WatchdogStartValueCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,622 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-05 00:10:30,691 [WARN] IP:2120 - MessageRAMOffset not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - RxFifo0ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - RxFifo0ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - RxFifo1ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - RxFifo1ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - RxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - RxBufferSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - TxEventsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - TxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - TxFifoQueueElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - TxElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - ClockCalibrationCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - ClockDividerCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - MinOscClkPeriodsCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - TimeQuantaPerBitTimeCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,691 [WARN] IP:2120 - WatchdogStartValueCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:10:30,701 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-05 00:11:09,127 [WARN] IP:2120 - MessageRAMOffset not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,127 [WARN] IP:2120 - RxFifo0ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,127 [WARN] IP:2120 - RxFifo0ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,127 [WARN] IP:2120 - RxFifo1ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,127 [WARN] IP:2120 - RxFifo1ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,127 [WARN] IP:2120 - RxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,127 [WARN] IP:2120 - RxBufferSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,127 [WARN] IP:2120 - TxEventsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,127 [WARN] IP:2120 - TxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,127 [WARN] IP:2120 - TxFifoQueueElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,127 [WARN] IP:2120 - TxElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,127 [WARN] IP:2120 - ClockCalibrationCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,128 [WARN] IP:2120 - ClockDividerCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,128 [WARN] IP:2120 - MinOscClkPeriodsCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,128 [WARN] IP:2120 - TimeQuantaPerBitTimeCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,128 [WARN] IP:2120 - WatchdogStartValueCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:09,149 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-05 00:11:16,166 [WARN] IP:2120 - MessageRAMOffset not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - RxFifo0ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - RxFifo0ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - RxFifo1ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - RxFifo1ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - RxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - RxBufferSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - TxEventsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - TxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - TxFifoQueueElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - TxElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - ClockCalibrationCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - ClockDividerCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - MinOscClkPeriodsCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - TimeQuantaPerBitTimeCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,166 [WARN] IP:2120 - WatchdogStartValueCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:16,190 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-05 00:11:19,061 [WARN] IP:2120 - MessageRAMOffset not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - RxFifo0ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - RxFifo0ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - RxFifo1ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - RxFifo1ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - RxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - RxBufferSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - TxEventsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - TxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - TxFifoQueueElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - TxElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - ClockCalibrationCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - ClockDividerCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - MinOscClkPeriodsCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - TimeQuantaPerBitTimeCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,061 [WARN] IP:2120 - WatchdogStartValueCCU not found: check if there is a RefParameter without a condition.
+2024-05-05 00:11:19,085 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-05 00:11:39,394 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-05 00:11:40,222 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]

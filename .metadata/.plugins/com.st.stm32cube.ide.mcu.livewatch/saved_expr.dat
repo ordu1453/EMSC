@@ -1,0 +1,15 @@
+throttle_value
+OD_PERSIST_COMM.x6040_controlword
+throttle_raw
+throttle
+OD_PERSIST_COMM.x6041_statusword
+OD_PERSIST_COMM.x6077_torq_act_val
+OD_PERSIST_COMM.x6064_pos_act_val
+x
+y
+z
+xg
+yg
+zg
+rec
+tap

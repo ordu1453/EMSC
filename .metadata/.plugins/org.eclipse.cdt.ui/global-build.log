@@ -1,0 +1,39 @@
+11:49:21 **** Incremental Build of configuration Debug for project stm32f767zi_lab6 ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m7 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F767xx -c -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+In file included from ../Core/Src/main.c:24:
+../Core/Src/LCD_lib.c: In function 'LCD_WriteStringAtPos':
+../Core/Src/LCD_lib.c:129:13: warning: unused variable 'j' [-Wunused-variable]
+  129 |         int j;
+      |             ^
+../Core/Src/LCD_lib.c:128:13: warning: unused variable 'i' [-Wunused-variable]
+  128 |         int i;
+      |             ^
+../Core/Src/LCD_lib.c: At top level:
+../Core/Src/LCD_lib.c:304:13: warning: 'LCD_disp_double' defined but not used [-Wunused-function]
+  304 | static void LCD_disp_double(uint8_t idxRow, uint8_t idxCol, double num){
+      |             ^~~~~~~~~~~~~~~
+../Core/Src/LCD_lib.c:268:16: warning: 'LCD_DispUserChar' defined but not used [-Wunused-function]
+  268 | static uint8_t LCD_DispUserChar(uint8_t* charPos, uint8_t charNumber, uint8_t idxRow, uint8_t idxCol) {
+      |                ^~~~~~~~~~~~~~~~
+../Core/Src/LCD_lib.c:224:16: warning: 'LCD_DefineUserChar' defined but not used [-Wunused-function]
+  224 | static uint8_t LCD_DefineUserChar(uint8_t* strUserDef, uint8_t charPos) {
+      |                ^~~~~~~~~~~~~~~~~~
+arm-none-eabi-gcc -o "stm32f767zi_lab6.elf" @"objects.list"   -mcpu=cortex-m7 -T"C:\Users\aordu\STM32CubeIDE\workspace_1.8.0\EMSC\stm32f767zi_lab6\STM32F767ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="stm32f767zi_lab6.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: stm32f767zi_lab6.elf
+ 
+arm-none-eabi-size  stm32f767zi_lab6.elf 
+arm-none-eabi-objdump -h -S stm32f767zi_lab6.elf  > "stm32f767zi_lab6.list"
+   text	   data	    bss	    dec	    hex	filename
+  24900	     12	   2100	  27012	   6984	stm32f767zi_lab6.elf
+Finished building: default.size.stdout
+ 
+Finished building: stm32f767zi_lab6.list
+ 
+11:49:31 **** Incremental Build of configuration Debug for project stm32f767zi_lab6 ****
+make -j8 all 
+arm-none-eabi-size  stm32f767zi_lab6.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24900	     12	   2100	  27012	   6984	stm32f767zi_lab6.elf
+Finished building: default.size.stdout
+ 

@@ -102,7 +102,7 @@ int main(void)
   MX_I2C2_Init();
   /* USER CODE BEGIN 2 */
   transmitData[0] = tempConfAddress;
-  transmitData[1] = 0x60;
+  transmitData[1] = 0x20;// Задание точности датчика 0.125
   HAL_I2C_Master_Transmit(&hi2c2, (I2C_ADDRESS_TEMP << 1), transmitData, 2,  I2C_TIMEOUT);
 
   LCD_DisplaySet(true, true);

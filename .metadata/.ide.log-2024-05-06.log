@@ -1,0 +1,55 @@
+2024-05-07 00:00:02,936 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 487427912 Bytes (823132160)
+2024-05-07 00:00:03,257 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 527275848 Bytes (823132160)
+2024-05-07 00:00:03,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7G4
+2024-05-07 00:00:03,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7G4
+2024-05-07 00:00:03,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-07 00:00:03,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-05-07 00:00:03,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-07 00:00:03,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-07 00:00:03,720 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-07 00:00:03,720 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FDCAN
+2024-05-07 00:00:03,721 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.8.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.0.202403141607\\db\
+2024-05-07 00:00:03,734 [WARN] IP:2120 - MessageRAMOffset not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - RxFifo0ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - RxFifo0ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - RxFifo1ElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - RxFifo1ElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - RxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - RxBufferSize not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - TxEventsNbr not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - TxBuffersNbr not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - TxFifoQueueElmtsNbr not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - TxElmtSize not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - ClockCalibrationCCU not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - ClockDividerCCU not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - MinOscClkPeriodsCCU not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - TimeQuantaPerBitTimeCCU not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,734 [WARN] IP:2120 - WatchdogStartValueCCU not found: check if there is a RefParameter without a condition.
+2024-05-07 00:00:03,889 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aordu\Desktop\ESC\v00\MXTmpFiles\license.tmp_save
+2024-05-07 00:00:04,279 [INFO] CodeEngine:279 - Generated code: C:\Users\aordu\Desktop\ESC\v00\MXTmpFiles\license.tmp
+2024-05-07 00:00:04,409 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aordu\Desktop\ESC\v00\MXTmpFiles\gpio.tmp_save
+2024-05-07 00:00:04,570 [INFO] CodeEngine:279 - Generated code: C:\Users\aordu\Desktop\ESC\v00\MXTmpFiles\gpio.tmp
+2024-05-07 00:00:04,987 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aordu\Desktop\ESC\v00\Core\Src\stm32g4xx_it.c_save
+2024-05-07 00:00:05,161 [INFO] CodeEngine:279 - Generated code: C:\Users\aordu\Desktop\ESC\v00\Core\Src\stm32g4xx_it.c
+2024-05-07 00:00:05,183 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aordu\Desktop\ESC\v00\Core\Inc\stm32g4xx_it.h_save
+2024-05-07 00:00:05,273 [INFO] CodeEngine:279 - Generated code: C:\Users\aordu\Desktop\ESC\v00\Core\Inc\stm32g4xx_it.h
+2024-05-07 00:00:05,313 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aordu\Desktop\ESC\v00\Core\Src\stm32g4xx_hal_msp.c_save
+2024-05-07 00:00:05,469 [INFO] CodeEngine:279 - Generated code: C:\Users\aordu\Desktop\ESC\v00\Core\Src\stm32g4xx_hal_msp.c
+2024-05-07 00:00:05,481 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aordu\Desktop\ESC\v00\MXTmpFiles\system.tmp_save
+2024-05-07 00:00:05,564 [INFO] CodeEngine:279 - Generated code: C:\Users\aordu\Desktop\ESC\v00\MXTmpFiles\system.tmp
+2024-05-07 00:00:05,604 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\aordu\Desktop\ESC\v00\Core\Inc\stm32g4xx_hal_conf.h_save
+2024-05-07 00:00:05,691 [INFO] CodeEngine:335 - Generated code: C:\Users\aordu\Desktop\ESC\v00\Core\Inc\stm32g4xx_hal_conf.h
+2024-05-07 00:00:05,713 [WARN] IPConfigManager:2982 - Warning: the RefConfig RCC_CommonPeriphClockConfig is not available in your config.xml file
+2024-05-07 00:00:05,715 [WARN] IPConfigManager:3513 - IP not found : TIM
+2024-05-07 00:00:05,717 [WARN] CodeGenerator:3951 - IP not found : null
+2024-05-07 00:00:05,745 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aordu\Desktop\ESC\v00\Core\Inc\main.h_save
+2024-05-07 00:00:05,859 [INFO] CodeEngine:279 - Generated code: C:\Users\aordu\Desktop\ESC\v00\Core\Inc\main.h
+2024-05-07 00:00:05,880 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\aordu\Desktop\ESC\v00\Core\Src\main.c_save
+2024-05-07 00:00:06,078 [INFO] CodeEngine:279 - Generated code: C:\Users\aordu\Desktop\ESC\v00\Core\Src\main.c
+2024-05-07 00:00:06,581 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 170mS.
+2024-05-07 00:00:06,586 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-05-07 00:00:06,668 [INFO] ConfigFileManager:1503 - The Die is : DIE468
+2024-05-07 00:00:06,684 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-05-07 00:00:06,696 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2024-05-07 00:00:06,709 [INFO] ApiDbMcu:508 - Load IP Config File for USBPD
+2024-05-07 00:00:06,722 [INFO] ApiDbMcu:508 - Load IP Config File for USB_Device

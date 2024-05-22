@@ -1,0 +1,19 @@
+17:02:45 **** Incremental Build of configuration Debug for project test_1 ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32G431xx -c -I../Core/Inc -I../Drivers/STM32G4xx_HAL_Driver/Inc -I../Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32G4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'MX_FDCAN1_Init':
+../Core/Src/main.c:221:21: error: invalid storage class for function 'FDCAN_Config'
+  221 |         static void FDCAN_Config(void)
+      |                     ^~~~~~~~~~~~
+../Core/Src/main.c: At top level:
+../Core/Src/main.c:276:14: warning: 'HAL_FDCAN_RxFifo0Callback' defined but not used [-Wunused-function]
+  276 |         void HAL_FDCAN_RxFifo0Callback(FDCAN_HandleTypeDef *hfdcan, uint32_t RxFifo0ITs)
+      |              ^~~~~~~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:221:21: warning: 'FDCAN_Config' defined but not used [-Wunused-function]
+  221 |         static void FDCAN_Config(void)
+      |                     ^~~~~~~~~~~~
+make: *** [Core/Src/subdir.mk:34: Core/Src/main.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+17:02:45 Build Failed. 2 errors, 2 warnings. (took 369ms)
+

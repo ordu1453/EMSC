@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;CANOpenNode-STM32F407-Disco&apos;" deleteContents="false" description="Delete resource &apos;CANOpenNode-STM32F407-Disco&apos;" element1="/CANOpenNode-STM32F407-Disco" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1714913094178"/>
+</session>
